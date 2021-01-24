@@ -1,0 +1,5 @@
+child1 pid=3346 ppid=3345 exit time 2020
+child2 pid=3347 ppid=3345 exit time 2020
+child11 pid=3348 ppid=3346 exit time 2020
+child21 pid=3349 ppid=3347 exit time 2020
+parent pid=3345 ppid=3336 exit time 2020
