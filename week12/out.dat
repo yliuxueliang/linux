@@ -1,0 +1,14 @@
+dup1 pid = 4381 
+argv[0] : ./12-5
+argv[1] : hello
+argv[2] : world
+argv[3] : 2020
+argv[4] : 12
+argv[5] : 07
+dup1 pid = 4453 
+argv[0] : ./dup
+argv[1] : hello
+argv[2] : world
+argv[3] : 2020
+argv[4] : 12
+argv[5] : 07
